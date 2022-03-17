@@ -115,7 +115,7 @@
   "name": "svg-sprite-loader",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JetBrains/svg-sprite-loader.git"
+    "url": "git+https://github.com/shenxdtw/svg-sprite-loader.git"
   },
   "scripts": {
     "bootstrap": "node scripts/bootstrap",
